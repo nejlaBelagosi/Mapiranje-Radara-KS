@@ -9,4 +9,4 @@ Radari i analitičke kamere su postali ključni instrumenti u nadzoru saobraćaj
 
 ## U buducnosti ce se poraditi na:
 - izgledu aplikacije i
-- novim finkcionalnostima
+- novim funkcionalnostima
