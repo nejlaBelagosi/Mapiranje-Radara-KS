@@ -7,6 +7,6 @@ Radari i analitičke kamere su postali ključni instrumenti u nadzoru saobraćaj
 ![image](https://github.com/nejlaBelagosi/Mapiranje-Radara-KS/assets/122165597/6b261bb2-8b9f-4165-b2e6-522e237b9466)
 
 
-U buducnosti ce se porediti:
-- na izgledu aplikacije
+## U buducnosti ce se poraditi na:
+- izgledu aplikacije i
 - novim finkcionalnostima
